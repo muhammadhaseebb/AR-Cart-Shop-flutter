@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "491887347303",
+    "project_id": "emailpassautharshop",
+    "storage_bucket": "emailpassautharshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491887347303:android:d1d74bdb75fe45c5e2f6c2",
+        "android_client_info": {
+          "package_name": "com.example.ar_cart_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491887347303-6jcu45sqchkh06a0rcun2c1f8pfcrg8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-8mGoeEpnIfawgCqgtLRqgEyeAbbZf7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491887347303-6jcu45sqchkh06a0rcun2c1f8pfcrg8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
